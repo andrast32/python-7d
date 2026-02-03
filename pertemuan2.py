@@ -2,7 +2,7 @@ berat = float(input("masukan berat badan anda = "))
 tinggi = float(input("masukan tinggi badan anda = (m) "))
 
 print("berat badan anda ", berat)
-print("tinggi badan anda ", tinggi)
+print("tinggi badan anda ", tinggi) #ini tinggi
 
 bmi = berat / (tinggi ** 2)
 
