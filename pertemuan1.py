@@ -21,7 +21,7 @@ print(type(tinggi))
 print(type(lulus))
 print(type(hobi))
 
-ucapan = input("Kasih ucapan buat KING MU = ")
+ucapan = input("Kasih ucapan buat sahabatmu = ")
 print(ucapan)
 
 nama        = input("Masukan nama anda: ")
